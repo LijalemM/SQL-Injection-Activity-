@@ -1,0 +1,30 @@
+form {
+	border: 3px solid #f8e092;
+    width: 60%;
+    }
+    
+    input[type=text], input[type=password] {
+	width: 50;
+	padding: 6px 10px;
+	margin: 8px 4px;
+	display: inline-block;
+	border: 4px solid rgb(10, 9, 9);
+	box-sizing: border-box;
+    }
+    
+    button {
+	background-color: #dbfadc;
+    text-decoration: solid;
+	color: rgb(59, 47, 47);
+	padding: 10px 10px;
+	margin: 5px;
+    align-self: center;
+	border: double;
+	cursor: pointer;
+	width: 7%;
+    }
+    
+    .container {
+	padding: 30px;
+    align-content: center;
+    }
